@@ -1,0 +1,3 @@
+# Project exclude paths
+/module/target/
+/test-junit/target/
