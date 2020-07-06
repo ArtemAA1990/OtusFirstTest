@@ -9,6 +9,7 @@
         <module name="module" />
         <module name="test-junit" />
         <module name="test-ng" />
+        <module name="owner" />
       </profile>
     </annotationProcessing>
   </component>

@@ -12,6 +12,7 @@
         <module>test-junit</module>
         <module>test-ng</module>
         <module>module</module>
+        <module>owner</module>
     </modules>
     <properties>
         <maven.compiler.source>1.12</maven.compiler.source>

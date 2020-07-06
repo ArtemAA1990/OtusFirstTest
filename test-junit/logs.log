@@ -22,3 +22,10 @@
 2020-07-06 21:49:15,259 DEBUG SampleTest [main] this is debug
 2020-07-06 21:49:15,259 TRACE SampleTest [main] this is trace
 2020-07-06 21:49:15,259 FATAL SampleTest [main] this is debug
+2020-07-06 22:19:29,385 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:19:29,389 INFO SampleTest [main] Открыта страница отус
+2020-07-06 22:19:31,150 INFO SampleTest [main] Драйвер поднят
+2020-07-06 22:19:31,150 INFO SampleTest [main] this is info
+2020-07-06 22:19:31,151 DEBUG SampleTest [main] this is debug
+2020-07-06 22:19:31,151 TRACE SampleTest [main] this is trace
+2020-07-06 22:19:31,151 FATAL SampleTest [main] this is debug
