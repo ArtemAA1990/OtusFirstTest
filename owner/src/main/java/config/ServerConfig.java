@@ -8,4 +8,7 @@ public interface ServerConfig extends Config {
 
     @Key("url")
     String url();
+
+    @Key("titleMainPage")
+    String titleMainPage();
 }

@@ -1,4 +1,6 @@
+import config.ServerConfig;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.aeonbits.owner.ConfigFactory;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.After;
@@ -7,11 +9,12 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import static org.junit.Assert.assertEquals;
 
-public class SampleTest {
-
+public class CheckTitleScreen {
     protected static WebDriver driver;
-    private Logger logger = LogManager.getLogger(SampleTest.class);
+    private Logger logger = LogManager.getLogger(CheckTitleScreen.class);
+    private ServerConfig cfg = ConfigFactory.create(ServerConfig.class);
 
     @Before
     public void setUp() {
@@ -19,10 +22,13 @@ public class SampleTest {
         driver = new ChromeDriver();
         logger.info("Драйвер поднят");
     }
+
     @Test
-    public void openPage() {
-        driver.get("https://otus.ru/");
+    public void checkTitleMainPage() {
+        driver.get(cfg.url());
         logger.info("Открыта страница отус");
+        assertEquals(cfg.titleMainPage(), driver.getTitle());
+        logger.info("Проверка titleMainPage");
     }
 
     @After
