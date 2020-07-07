@@ -31,7 +31,7 @@ public class SampleTest {
     }
 
     @Test
-    public void openPage() {
+    public void openPage() throws InterruptedException {
         cfg.url();
         logger.info("Открыта страница отус");
     }

@@ -29,3 +29,72 @@
 2020-07-06 22:19:31,151 DEBUG SampleTest [main] this is debug
 2020-07-06 22:19:31,151 TRACE SampleTest [main] this is trace
 2020-07-06 22:19:31,151 FATAL SampleTest [main] this is debug
+2020-07-07 21:30:09,506 INFO SampleTest [main] Драйвер поднят
+2020-07-07 21:30:09,509 INFO SampleTest [main] Открыта страница отус
+2020-07-07 21:30:09,509 INFO SampleTest [main] Название страницы проверено
+2020-07-07 21:32:21,598 INFO SampleTest [main] Драйвер поднят
+2020-07-07 21:32:21,604 INFO SampleTest [main] Открыта страница отус
+2020-07-07 21:32:21,606 INFO SampleTest [main] Название страницы проверено
+2020-07-07 21:33:00,162 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 21:33:00,193 INFO CheckMainPageTitle [main] Открыта страница отус
+2020-07-07 21:33:00,193 INFO CheckMainPageTitle [main] Название страницы проверено
+2020-07-07 21:39:55,648 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 21:42:47,596 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 21:44:58,833 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 21:45:29,455 INFO SampleTest [main] Драйвер поднят
+2020-07-07 21:45:29,458 INFO SampleTest [main] Открыта страница отус
+2020-07-07 21:45:31,071 INFO SampleTest [main] Драйвер поднят
+2020-07-07 21:45:31,071 INFO SampleTest [main] this is info
+2020-07-07 21:45:31,071 DEBUG SampleTest [main] this is debug
+2020-07-07 21:45:31,072 TRACE SampleTest [main] this is trace
+2020-07-07 21:45:31,072 FATAL SampleTest [main] this is debug
+2020-07-07 21:46:24,900 INFO SampleTest [main] Драйвер поднят
+2020-07-07 21:46:24,910 INFO SampleTest [main] Открыта страница отус
+2020-07-07 21:46:26,493 INFO SampleTest [main] Драйвер поднят
+2020-07-07 21:46:26,494 INFO SampleTest [main] this is info
+2020-07-07 21:46:26,495 DEBUG SampleTest [main] this is debug
+2020-07-07 21:46:26,495 TRACE SampleTest [main] this is trace
+2020-07-07 21:46:26,496 FATAL SampleTest [main] this is debug
+2020-07-07 21:47:00,518 INFO SampleTest [main] Драйвер поднят
+2020-07-07 21:47:00,522 INFO SampleTest [main] Открыта страница отус
+2020-07-07 21:47:02,641 INFO SampleTest [main] Драйвер поднят
+2020-07-07 21:47:02,641 INFO SampleTest [main] this is info
+2020-07-07 21:47:02,641 DEBUG SampleTest [main] this is debug
+2020-07-07 21:47:02,642 TRACE SampleTest [main] this is trace
+2020-07-07 21:47:02,642 FATAL SampleTest [main] this is debug
+2020-07-07 21:50:56,996 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 21:51:38,106 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 21:52:36,140 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 21:53:36,664 INFO SampleTest [main] Драйвер поднят
+2020-07-07 21:53:36,666 INFO SampleTest [main] Открыта страница отус
+2020-07-07 21:53:38,586 INFO SampleTest [main] Драйвер поднят
+2020-07-07 21:53:38,586 INFO SampleTest [main] this is info
+2020-07-07 21:53:38,587 DEBUG SampleTest [main] this is debug
+2020-07-07 21:53:38,587 TRACE SampleTest [main] this is trace
+2020-07-07 21:53:38,587 FATAL SampleTest [main] this is debug
+2020-07-07 21:54:48,103 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 21:54:48,107 INFO CheckMainPageTitle [main] Открыта страница отус
+2020-07-07 21:56:27,868 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 21:56:27,874 INFO CheckMainPageTitle [main] Открыта страница отус
+2020-07-07 21:56:27,874 INFO CheckMainPageTitle [main] Всё хорошо
+2020-07-07 21:59:30,899 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 21:59:30,901 INFO CheckMainPageTitle [main] Открыта страница отус
+2020-07-07 22:02:42,997 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 22:02:43,004 INFO CheckMainPageTitle [main] Открыта страница отус
+2020-07-07 22:25:19,827 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 22:26:26,075 INFO CheckMainPageTitle [main] Драйвер поднят
+2020-07-07 22:26:26,079 INFO CheckMainPageTitle [main] Открыта страница отус
+2020-07-07 22:28:15,564 INFO SampleTest [main] Драйвер поднят
+2020-07-07 22:28:15,574 INFO SampleTest [main] Открыта страница отус
+2020-07-07 22:28:27,129 INFO SampleTest [main] Драйвер поднят
+2020-07-07 22:28:27,130 INFO SampleTest [main] this is info
+2020-07-07 22:28:27,130 DEBUG SampleTest [main] this is debug
+2020-07-07 22:28:27,130 TRACE SampleTest [main] this is trace
+2020-07-07 22:28:27,130 FATAL SampleTest [main] this is debug
+2020-07-07 22:29:58,020 INFO SampleTest [main] Драйвер поднят
+2020-07-07 22:29:58,023 INFO SampleTest [main] Открыта страница отус
+2020-07-07 22:29:59,795 INFO SampleTest [main] Драйвер поднят
+2020-07-07 22:29:59,795 INFO SampleTest [main] this is info
+2020-07-07 22:29:59,796 DEBUG SampleTest [main] this is debug
+2020-07-07 22:29:59,796 TRACE SampleTest [main] this is trace
+2020-07-07 22:29:59,796 FATAL SampleTest [main] this is debug
