@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ArtemAA1990 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-yasveshnikov
-/
-otusHomework1
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-otusHomework1/.gitignore
-
-y.sveshnikov Remove files
-Latest commit e39d42b 20 hours ago
- History
- 0 contributors
-170 lines (133 sloc)  3.2 KB
-  
-
 # Created by https://www.toptal.com/developers/gitignore/api/java,intellij,maven,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij,maven,macos
 
@@ -202,15 +167,3 @@ buildNumber.properties
 
 .idea
 *.iml
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
